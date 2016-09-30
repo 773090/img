@@ -1,0 +1,1 @@
+document.write("<div style=\"width:300px;height:50px;border:0px dotted #ccc;text-align: center;line-height: 50px;background-color: #921D8E;color: #FFF;font-family: 微软雅黑 Light;font-size: 16px;-moz-border-radius:4px;-webkit-border-radius: 4px;\">精品广告位 ID:2 300x50</div>")
