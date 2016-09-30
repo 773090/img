@@ -1,0 +1,7 @@
+#
+# robots.txt for EmpireCMS
+#
+
+User-agent: *
+
+Disallow: /
