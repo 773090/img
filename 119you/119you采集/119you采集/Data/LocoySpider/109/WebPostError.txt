@@ -1,0 +1,605 @@
+ID:25
+网址:http://app.3987.com/app/23008.html
+Header:HTTP/1.1 200 OK
+Date:Tue, 31 May 2016 16:21:29 GMT
+Content-Type:text/html; charset=utf-8
+Server:IIS
+X-Powered-By:WAF/2.0,WAF/2.0
+Content-Encoding:gzip
+Vary:Accept-Encoding
+Transfer-Encoding:chunked
+Content-Length:1037
+
+源代码:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>信息提示</title>
+<link href="../adminstyle/1/adminstyle.css" rel="stylesheet" type="text/css">
+<SCRIPT language=javascript>
+var secs=2;//3秒
+for(i=1;i<=secs;i++) 
+{ window.setTimeout("update(" + i + ")", i * 1000);} 
+function update(num) 
+{ 
+if(num == secs) 
+{ self.location.href='index.php';; } 
+else 
+{ } 
+}
+</SCRIPT>
+</head>
+
+<body>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<table width="500" border="0" align="center" cellpadding="3" cellspacing="1" class="tableborder">
+  <tr class="header"> 
+    <td height="25"><div align="center">信息提示</div></td>
+  </tr>
+  <tr bgcolor="#FFFFFF"> 
+    <td height="80"> 
+      <div align="center">
+	  <br>
+        <b>您还未登录</b>
+        <br>
+        <br><a href="index.php">如果您的浏览器没有自动跳转，请点击这里</a>
+<br><br>
+	  </div></td>
+  </tr>
+</table>
+</body>
+</html>
+========分隔线=======
+ID:25
+网址:http://app.3987.com/app/23008.html
+Header:HTTP/1.1 200 OK
+Date:Tue, 31 May 2016 16:21:46 GMT
+Content-Type:text/html; charset=utf-8
+Set-Cookie:bcwhilogintime=1464711706; path=/
+Server:IIS
+X-Powered-By:WAF/2.0,WAF/2.0
+Content-Encoding:gzip
+Vary:Accept-Encoding
+Transfer-Encoding:chunked
+Content-Length:1048
+
+源代码:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>信息提示</title>
+<link href="../adminstyle/1/adminstyle.css" rel="stylesheet" type="text/css">
+<SCRIPT language=javascript>
+var secs=2;//3秒
+for(i=1;i<=secs;i++) 
+{ window.setTimeout("update(" + i + ")", i * 1000);} 
+function update(num) 
+{ 
+if(num == secs) 
+{ history.go(-1); } 
+else 
+{ } 
+}
+</SCRIPT>
+</head>
+
+<body>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<table width="500" border="0" align="center" cellpadding="3" cellspacing="1" class="tableborder">
+  <tr class="header"> 
+    <td height="25"><div align="center">信息提示</div></td>
+  </tr>
+  <tr bgcolor="#FFFFFF"> 
+    <td height="80"> 
+      <div align="center">
+	  <br>
+        <b>您来自的链接不存在</b>
+        <br>
+        <br><a href="javascript:history.go(-1)">如果您的浏览器没有自动跳转，请点击这里</a>
+<br><br>
+	  </div></td>
+  </tr>
+</table>
+</body>
+</html>
+========分隔线=======
+ID:25
+网址:http://app.3987.com/app/23008.html
+Header:HTTP/1.1 200 OK
+Date:Tue, 31 May 2016 16:22:04 GMT
+Content-Type:text/html; charset=utf-8
+Set-Cookie:bcwhilogintime=1464711724; path=/
+Server:IIS
+X-Powered-By:WAF/2.0,WAF/2.0
+Content-Encoding:gzip
+Vary:Accept-Encoding
+Transfer-Encoding:chunked
+Content-Length:1048
+
+源代码:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>信息提示</title>
+<link href="../adminstyle/1/adminstyle.css" rel="stylesheet" type="text/css">
+<SCRIPT language=javascript>
+var secs=2;//3秒
+for(i=1;i<=secs;i++) 
+{ window.setTimeout("update(" + i + ")", i * 1000);} 
+function update(num) 
+{ 
+if(num == secs) 
+{ history.go(-1); } 
+else 
+{ } 
+}
+</SCRIPT>
+</head>
+
+<body>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<table width="500" border="0" align="center" cellpadding="3" cellspacing="1" class="tableborder">
+  <tr class="header"> 
+    <td height="25"><div align="center">信息提示</div></td>
+  </tr>
+  <tr bgcolor="#FFFFFF"> 
+    <td height="80"> 
+      <div align="center">
+	  <br>
+        <b>您来自的链接不存在</b>
+        <br>
+        <br><a href="javascript:history.go(-1)">如果您的浏览器没有自动跳转，请点击这里</a>
+<br><br>
+	  </div></td>
+  </tr>
+</table>
+</body>
+</html>
+========分隔线=======
+ID:25
+网址:http://app.3987.com/app/23008.html
+Header:HTTP/1.1 200 OK
+Date:Tue, 31 May 2016 16:23:44 GMT
+Content-Type:text/html; charset=utf-8
+Set-Cookie:bcwhilogintime=1464711824; path=/
+Server:IIS
+X-Powered-By:WAF/2.0,WAF/2.0
+Content-Encoding:gzip
+Vary:Accept-Encoding
+Transfer-Encoding:chunked
+Content-Length:1048
+
+源代码:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>信息提示</title>
+<link href="../adminstyle/1/adminstyle.css" rel="stylesheet" type="text/css">
+<SCRIPT language=javascript>
+var secs=2;//3秒
+for(i=1;i<=secs;i++) 
+{ window.setTimeout("update(" + i + ")", i * 1000);} 
+function update(num) 
+{ 
+if(num == secs) 
+{ history.go(-1); } 
+else 
+{ } 
+}
+</SCRIPT>
+</head>
+
+<body>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<table width="500" border="0" align="center" cellpadding="3" cellspacing="1" class="tableborder">
+  <tr class="header"> 
+    <td height="25"><div align="center">信息提示</div></td>
+  </tr>
+  <tr bgcolor="#FFFFFF"> 
+    <td height="80"> 
+      <div align="center">
+	  <br>
+        <b>您来自的链接不存在</b>
+        <br>
+        <br><a href="javascript:history.go(-1)">如果您的浏览器没有自动跳转，请点击这里</a>
+<br><br>
+	  </div></td>
+  </tr>
+</table>
+</body>
+</html>
+========分隔线=======
+ID:25
+网址:http://app.3987.com/app/23008.html
+Header:HTTP/1.1 200 OK
+Date:Tue, 31 May 2016 16:25:15 GMT
+Content-Type:text/html; charset=utf-8
+Set-Cookie:bcwhilogintime=1464711915; path=/
+Server:IIS
+X-Powered-By:WAF/2.0,WAF/2.0
+Content-Encoding:gzip
+Vary:Accept-Encoding
+Transfer-Encoding:chunked
+Content-Length:1048
+
+源代码:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>信息提示</title>
+<link href="../adminstyle/1/adminstyle.css" rel="stylesheet" type="text/css">
+<SCRIPT language=javascript>
+var secs=2;//3秒
+for(i=1;i<=secs;i++) 
+{ window.setTimeout("update(" + i + ")", i * 1000);} 
+function update(num) 
+{ 
+if(num == secs) 
+{ history.go(-1); } 
+else 
+{ } 
+}
+</SCRIPT>
+</head>
+
+<body>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<table width="500" border="0" align="center" cellpadding="3" cellspacing="1" class="tableborder">
+  <tr class="header"> 
+    <td height="25"><div align="center">信息提示</div></td>
+  </tr>
+  <tr bgcolor="#FFFFFF"> 
+    <td height="80"> 
+      <div align="center">
+	  <br>
+        <b>您来自的链接不存在</b>
+        <br>
+        <br><a href="javascript:history.go(-1)">如果您的浏览器没有自动跳转，请点击这里</a>
+<br><br>
+	  </div></td>
+  </tr>
+</table>
+</body>
+</html>
+========分隔线=======
+ID:25
+网址:http://app.3987.com/app/23008.html
+Header:HTTP/1.1 200 OK
+Date:Tue, 31 May 2016 16:27:21 GMT
+Content-Type:text/html; charset=utf-8
+Set-Cookie:bcwhilogintime=1464712041; path=/
+Server:IIS
+X-Powered-By:WAF/2.0,WAF/2.0
+Content-Encoding:gzip
+Vary:Accept-Encoding
+Transfer-Encoding:chunked
+Content-Length:1048
+
+源代码:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>信息提示</title>
+<link href="../adminstyle/1/adminstyle.css" rel="stylesheet" type="text/css">
+<SCRIPT language=javascript>
+var secs=2;//3秒
+for(i=1;i<=secs;i++) 
+{ window.setTimeout("update(" + i + ")", i * 1000);} 
+function update(num) 
+{ 
+if(num == secs) 
+{ history.go(-1); } 
+else 
+{ } 
+}
+</SCRIPT>
+</head>
+
+<body>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<table width="500" border="0" align="center" cellpadding="3" cellspacing="1" class="tableborder">
+  <tr class="header"> 
+    <td height="25"><div align="center">信息提示</div></td>
+  </tr>
+  <tr bgcolor="#FFFFFF"> 
+    <td height="80"> 
+      <div align="center">
+	  <br>
+        <b>您来自的链接不存在</b>
+        <br>
+        <br><a href="javascript:history.go(-1)">如果您的浏览器没有自动跳转，请点击这里</a>
+<br><br>
+	  </div></td>
+  </tr>
+</table>
+</body>
+</html>
+========分隔线=======
+ID:25
+网址:http://app.3987.com/app/23008.html
+Header:HTTP/1.1 200 OK
+Date:Tue, 31 May 2016 16:29:36 GMT
+Content-Type:text/html; charset=utf-8
+Set-Cookie:bcwhilogintime=1464712176; path=/
+Server:IIS
+X-Powered-By:WAF/2.0,WAF/2.0
+Content-Encoding:gzip
+Vary:Accept-Encoding
+Transfer-Encoding:chunked
+Content-Length:1048
+
+源代码:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>信息提示</title>
+<link href="../adminstyle/1/adminstyle.css" rel="stylesheet" type="text/css">
+<SCRIPT language=javascript>
+var secs=2;//3秒
+for(i=1;i<=secs;i++) 
+{ window.setTimeout("update(" + i + ")", i * 1000);} 
+function update(num) 
+{ 
+if(num == secs) 
+{ history.go(-1); } 
+else 
+{ } 
+}
+</SCRIPT>
+</head>
+
+<body>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<table width="500" border="0" align="center" cellpadding="3" cellspacing="1" class="tableborder">
+  <tr class="header"> 
+    <td height="25"><div align="center">信息提示</div></td>
+  </tr>
+  <tr bgcolor="#FFFFFF"> 
+    <td height="80"> 
+      <div align="center">
+	  <br>
+        <b>您来自的链接不存在</b>
+        <br>
+        <br><a href="javascript:history.go(-1)">如果您的浏览器没有自动跳转，请点击这里</a>
+<br><br>
+	  </div></td>
+  </tr>
+</table>
+</body>
+</html>
+========分隔线=======
+ID:25
+网址:http://app.3987.com/app/23008.html
+Header:HTTP/1.1 200 OK
+Date:Tue, 31 May 2016 16:33:51 GMT
+Content-Type:text/html; charset=utf-8
+Set-Cookie:bcwhilogintime=1464712431; path=/
+Server:IIS
+X-Powered-By:WAF/2.0,WAF/2.0
+Content-Encoding:gzip
+Vary:Accept-Encoding
+Transfer-Encoding:chunked
+Content-Length:1048
+
+源代码:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>信息提示</title>
+<link href="../adminstyle/1/adminstyle.css" rel="stylesheet" type="text/css">
+<SCRIPT language=javascript>
+var secs=2;//3秒
+for(i=1;i<=secs;i++) 
+{ window.setTimeout("update(" + i + ")", i * 1000);} 
+function update(num) 
+{ 
+if(num == secs) 
+{ history.go(-1); } 
+else 
+{ } 
+}
+</SCRIPT>
+</head>
+
+<body>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<table width="500" border="0" align="center" cellpadding="3" cellspacing="1" class="tableborder">
+  <tr class="header"> 
+    <td height="25"><div align="center">信息提示</div></td>
+  </tr>
+  <tr bgcolor="#FFFFFF"> 
+    <td height="80"> 
+      <div align="center">
+	  <br>
+        <b>您来自的链接不存在</b>
+        <br>
+        <br><a href="javascript:history.go(-1)">如果您的浏览器没有自动跳转，请点击这里</a>
+<br><br>
+	  </div></td>
+  </tr>
+</table>
+</body>
+</html>
+========分隔线=======
+ID:25
+网址:http://app.3987.com/app/23008.html
+Header:HTTP/1.1 200 OK
+Date:Tue, 31 May 2016 23:34:13 GMT
+Content-Type:text/html; charset=utf-8
+Set-Cookie:bcwhilogintime=1464737653; path=/
+Server:IIS
+X-Powered-By:WAF/2.0,WAF/2.0
+Content-Encoding:gzip
+Vary:Accept-Encoding
+Transfer-Encoding:chunked
+Content-Length:1048
+
+源代码:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>信息提示</title>
+<link href="../adminstyle/1/adminstyle.css" rel="stylesheet" type="text/css">
+<SCRIPT language=javascript>
+var secs=2;//3秒
+for(i=1;i<=secs;i++) 
+{ window.setTimeout("update(" + i + ")", i * 1000);} 
+function update(num) 
+{ 
+if(num == secs) 
+{ history.go(-1); } 
+else 
+{ } 
+}
+</SCRIPT>
+</head>
+
+<body>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<table width="500" border="0" align="center" cellpadding="3" cellspacing="1" class="tableborder">
+  <tr class="header"> 
+    <td height="25"><div align="center">信息提示</div></td>
+  </tr>
+  <tr bgcolor="#FFFFFF"> 
+    <td height="80"> 
+      <div align="center">
+	  <br>
+        <b>您来自的链接不存在</b>
+        <br>
+        <br><a href="javascript:history.go(-1)">如果您的浏览器没有自动跳转，请点击这里</a>
+<br><br>
+	  </div></td>
+  </tr>
+</table>
+</body>
+</html>
+========分隔线=======
+ID:25
+网址:http://app.3987.com/app/23008.html
+Header:HTTP/1.1 404 Not Found
+Date:Tue, 31 May 2016 23:43:33 GMT
+Content-Length:1308
+Content-Type:text/html
+Server:IIS
+X-Powered-By:WAF/2.0
+
+源代码:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>?????????</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=GB2312">
+<STYLE type="text/css">
+  BODY { font: 9pt/12pt ???? }
+  H1 { font: 12pt/15pt ???? }
+  H2 { font: 9pt/12pt ???? }
+  A:link { color: red }
+  A:visited { color: maroon }
+</STYLE>
+</HEAD><BODY><TABLE width=500 border=0 cellspacing=10><TR><TD>
+
+<h1>?????????</h1>
+????????????????????????????????????????á?
+<hr>
+<p>???????2?????</p>
+<ul>
+<li>??????????????????????????????д???????????</li>
+<li>?????????????????????????????????????????????????????????????????
+</li>
+<li>????<a href="javascript:history.back(1)">????</a>?????????????????</li>
+</ul>
+<h2>HTTP ???? 404 - ???????δ?????<br>Internet ??????? (IIS)</h2>
+<hr>
+<p>????????????????????????</p>
+<ul>
+<li>??? <a href="http://go.microsoft.com/fwlink/?linkid=8180">Microsoft ?????????</a>??????????&ldquo;HTTP&rdquo;??&ldquo;404&rdquo;?????</li>
+<li>??&ldquo;IIS ????&rdquo;?????? IIS ?????? (inetmgr) ?з??????????????????&ldquo;???????&rdquo;??&ldquo;???????????&rdquo;??&ldquo;???????????????&rdquo;??????</li>
+</ul>
+
+</TD></TR></TABLE></BODY></HTML>
+
+========分隔线=======
+ID:25
+网址:http://app.3987.com/app/23008.html
+Header:HTTP/1.1 404 Not Found
+Date:Tue, 31 May 2016 23:47:49 GMT
+Content-Length:1308
+Content-Type:text/html
+Server:IIS
+X-Powered-By:WAF/2.0
+
+源代码:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>?????????</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=GB2312">
+<STYLE type="text/css">
+  BODY { font: 9pt/12pt ???? }
+  H1 { font: 12pt/15pt ???? }
+  H2 { font: 9pt/12pt ???? }
+  A:link { color: red }
+  A:visited { color: maroon }
+</STYLE>
+</HEAD><BODY><TABLE width=500 border=0 cellspacing=10><TR><TD>
+
+<h1>?????????</h1>
+????????????????????????????????????????á?
+<hr>
+<p>???????2?????</p>
+<ul>
+<li>??????????????????????????????д???????????</li>
+<li>?????????????????????????????????????????????????????????????????
+</li>
+<li>????<a href="javascript:history.back(1)">????</a>?????????????????</li>
+</ul>
+<h2>HTTP ???? 404 - ???????δ?????<br>Internet ??????? (IIS)</h2>
+<hr>
+<p>????????????????????????</p>
+<ul>
+<li>??? <a href="http://go.microsoft.com/fwlink/?linkid=8180">Microsoft ?????????</a>??????????&ldquo;HTTP&rdquo;??&ldquo;404&rdquo;?????</li>
+<li>??&ldquo;IIS ????&rdquo;?????? IIS ?????? (inetmgr) ?з??????????????????&ldquo;???????&rdquo;??&ldquo;???????????&rdquo;??&ldquo;???????????????&rdquo;??????</li>
+</ul>
+
+</TD></TR></TABLE></BODY></HTML>
+
+========分隔线=======

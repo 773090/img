@@ -1,0 +1,57 @@
+2016-08-18 20:42:54,433 [132] ERROR Client.Platform [(null)] - time1_Elapsed
+System.ObjectDisposedException: 无法访问已释放的对象。
+对象名:“Platform”。
+   在 System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   在 System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   在 System.Windows.Forms.Control.Invoke(Delegate method)
+   在 Client.Platform.iDDltVmeWELhIaHdDRy(Object , Object )
+   在 Client.Platform.xvViixABkr(Object , ElapsedEventArgs )
+2016-08-19 14:19:33,162 [61] ERROR Client.Platform [(null)] - time1_Elapsed
+System.InvalidOperationException: 在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+   在 System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   在 System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   在 System.Windows.Forms.Control.Invoke(Delegate method)
+   在 Client.Platform.iDDltVmeWELhIaHdDRy(Object , Object )
+   在 Client.Platform.xvViixABkr(Object , ElapsedEventArgs )
+2016-08-19 14:20:22,970 [24] ERROR Client.Platform [(null)] - time1_Elapsed
+System.InvalidOperationException: 在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+   在 System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   在 System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   在 System.Windows.Forms.Control.Invoke(Delegate method)
+   在 Client.Platform.iDDltVmeWELhIaHdDRy(Object , Object )
+   在 Client.Platform.xvViixABkr(Object , ElapsedEventArgs )
+2016-08-19 14:22:03,076 [61] ERROR Client.Platform [(null)] - time1_Elapsed
+System.InvalidOperationException: 在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+   在 System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   在 System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   在 System.Windows.Forms.Control.Invoke(Delegate method)
+   在 Client.Platform.iDDltVmeWELhIaHdDRy(Object , Object )
+   在 Client.Platform.xvViixABkr(Object , ElapsedEventArgs )
+2016-08-19 14:23:43,188 [29] ERROR Client.Platform [(null)] - time1_Elapsed
+System.InvalidOperationException: 在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+   在 System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   在 System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   在 System.Windows.Forms.Control.Invoke(Delegate method)
+   在 Client.Platform.iDDltVmeWELhIaHdDRy(Object , Object )
+   在 Client.Platform.xvViixABkr(Object , ElapsedEventArgs )
+2016-08-19 14:24:33,234 [24] ERROR Client.Platform [(null)] - time1_Elapsed
+System.InvalidOperationException: 在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+   在 System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   在 System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   在 System.Windows.Forms.Control.Invoke(Delegate method)
+   在 Client.Platform.iDDltVmeWELhIaHdDRy(Object , Object )
+   在 Client.Platform.xvViixABkr(Object , ElapsedEventArgs )
+2016-08-19 14:27:03,362 [24] ERROR Client.Platform [(null)] - time1_Elapsed
+System.InvalidOperationException: 在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+   在 System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   在 System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   在 System.Windows.Forms.Control.Invoke(Delegate method)
+   在 Client.Platform.iDDltVmeWELhIaHdDRy(Object , Object )
+   在 Client.Platform.xvViixABkr(Object , ElapsedEventArgs )
+2016-08-19 14:29:33,541 [24] ERROR Client.Platform [(null)] - time1_Elapsed
+System.InvalidOperationException: 在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+   在 System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   在 System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   在 System.Windows.Forms.Control.Invoke(Delegate method)
+   在 Client.Platform.iDDltVmeWELhIaHdDRy(Object , Object )
+   在 Client.Platform.xvViixABkr(Object , ElapsedEventArgs )

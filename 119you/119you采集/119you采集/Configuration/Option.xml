@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Options xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <IsAutoShutdown>false</IsAutoShutdown>
+  <MaxJobNum>5</MaxJobNum>
+  <IsDisposeJobGui>false</IsDisposeJobGui>
+  <IsPlayCompleteSound>true</IsPlayCompleteSound>
+  <HotKey>7798786</HotKey>
+  <DefaultMaxPageNum>10</DefaultMaxPageNum>
+  <TimeOut>30</TimeOut>
+  <IsIgnoreCase>false</IsIgnoreCase>
+  <DealLabelNotNull>false</DealLabelNotNull>
+  <Separete>|||</Separete>
+  <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)</UserAgent>
+  <IsAutoBackUp>false</IsAutoBackUp>
+  <BackUpDir />
+  <BackUpFrequency>1</BackUpFrequency>
+  <LastBackTime>0001-01-01T12:00:00</LastBackTime>
+  <IsAutoStart>true</IsAutoStart>
+  <IsAutoLogin>true</IsAutoLogin>
+  <IsMinsizeByClose>true</IsMinsizeByClose>
+  <IsInNotifyByMin>true</IsInNotifyByMin>
+  <IsAutoBugReport>true</IsAutoBugReport>
+  <IsPopUpdateMsg>false</IsPopUpdateMsg>
+  <IsRecievLeWellMsg>false</IsRecievLeWellMsg>
+  <SkipWhenCronBlock>true</SkipWhenCronBlock>
+  <ShowJobQueue>true</ShowJobQueue>
+  <ShowRecycleJob>false</ShowRecycleJob>
+  <AutoUpdatePlateformSoftList>true</AutoUpdatePlateformSoftList>
+  <AllJobInOne>false</AllJobInOne>
+  <Language>zh-CN</Language>
+  <OpenRunLog>false</OpenRunLog>
+  <IsShowSelectJob>true</IsShowSelectJob>
+</Options>

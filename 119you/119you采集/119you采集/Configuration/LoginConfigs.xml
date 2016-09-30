@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LoginConfigs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UserName>92game</UserName>
+  <Password>[mD5]525b4135b12d7f331a5d7ef3c85aa62b</Password>
+  <LoginServer>0</LoginServer>
+  <IsAutoLogin>false</IsAutoLogin>
+  <IsOneTimeRestartAutoLogin>false</IsOneTimeRestartAutoLogin>
+  <ProxyType>DefaultIE</ProxyType>
+  <ProxyServer />
+  <ProxyPort />
+  <ProxyUsername />
+  <ProxyPass />
+  <ProxyDomain />
+  <DatLen>0</DatLen>
+  <Language>zh-CN</Language>
+</LoginConfigs>
